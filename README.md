@@ -12,6 +12,7 @@ This is a stock market prediction application built with **Streamlit**, **Tensor
 
 The following Python libraries are required to run the application:
 
+
 - `numpy`
 - `pandas`
 - `yfinance`
